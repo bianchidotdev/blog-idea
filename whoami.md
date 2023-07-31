@@ -3,7 +3,7 @@
 Pronouns: they/them
 
 * [GitHub](https://github.com/bianchidotdev)
-* [Mastodon](https://hachyderm.io/@bonkybot)
+* <a href=https://hachyderm.io/@bonkybot rel=me>Mastodon</a>
 
 I'm  a software engineer who builds mostly in Elixir, Ruby, and Go. Professionally, I focus largely on backend software, developer tooling, and declarative infrastructure.
 
