@@ -31,9 +31,12 @@ This repo uses [soft-serve](https://github.com/charmbracelet/soft-serve) as a pr
 ## Getting Started
 
 Prerequisites:
+
 * A fly.io account
 * [`flyctl`](https://fly.io/docs/hands-on/install-flyctl/) installed
 
+
+Steps:
 
 * Clone or fork the repo [bianchidotdev/git](https://github.com/bianchidotdev/git)
 * Update the following in `fly.toml`
